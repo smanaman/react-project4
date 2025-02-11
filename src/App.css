@@ -1,0 +1,13 @@
+
+.card-sec{
+    width: 100%;
+    height: auto;
+     display: flex;
+     flex-direction: row;
+     flex-wrap: wrap;
+     justify-content: space-evenly;
+     align-content: center;
+     background-color: #1e1f26;
+     /* padding: 15px; */
+  
+   }
